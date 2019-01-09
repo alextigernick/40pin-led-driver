@@ -1,0 +1,1350 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr E 44000 34000
+encoding utf-8
+Sheet 1 1
+Title ""
+Date "2019-01-06"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L TLC6C598PWR:TLC6C598PWR LED5
+U 1 1 5C31E6F7
+P 4200 8100
+F 0 "LED5" H 4900 8365 50  0000 C CNN
+F 1 "TLC6C598PWR" H 4900 8274 50  0000 C CNN
+F 2 "SOP65P640X120-16N" H 5450 8200 50  0001 L CNN
+F 3 "http://www.ti.com/lit/gpn/tlc6c598" H 5450 8100 50  0001 L CNN
+F 4 "TLC6C598 8-Bit Shift-Register LED Driver " H 5450 8000 50  0001 L CNN "Description"
+F 5 "1.2" H 5450 7900 50  0001 L CNN "Height"
+F 6 "Texas Instruments" H 5450 7800 50  0001 L CNN "Manufacturer_Name"
+F 7 "TLC6C598PWR" H 5450 7700 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "595-TLC6C598PWR" H 5450 7400 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TLC6C598PWR" H 5450 7300 50  0001 L CNN "Mouser Price/Stock"
+	1    4200 8100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 8100 4100 8100
+Wire Wire Line
+	4200 8700 4100 8700
+Wire Wire Line
+	4100 8700 4100 8100
+$Comp
+L TLC6C598PWR:TLC6C598PWR LED4
+U 1 1 5C3858CA
+P 4200 6550
+F 0 "LED4" H 4900 6815 50  0000 C CNN
+F 1 "TLC6C598PWR" H 4900 6724 50  0000 C CNN
+F 2 "SOP65P640X120-16N" H 5450 6650 50  0001 L CNN
+F 3 "http://www.ti.com/lit/gpn/tlc6c598" H 5450 6550 50  0001 L CNN
+F 4 "TLC6C598 8-Bit Shift-Register LED Driver " H 5450 6450 50  0001 L CNN "Description"
+F 5 "1.2" H 5450 6350 50  0001 L CNN "Height"
+F 6 "Texas Instruments" H 5450 6250 50  0001 L CNN "Manufacturer_Name"
+F 7 "TLC6C598PWR" H 5450 6150 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "595-TLC6C598PWR" H 5450 5850 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TLC6C598PWR" H 5450 5750 50  0001 L CNN "Mouser Price/Stock"
+	1    4200 6550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 6550 4100 6550
+Wire Wire Line
+	4200 7150 4100 7150
+Wire Wire Line
+	4100 7150 4100 6550
+$Comp
+L TLC6C598PWR:TLC6C598PWR LED3
+U 1 1 5C387112
+P 4200 5050
+F 0 "LED3" H 4900 5315 50  0000 C CNN
+F 1 "TLC6C598PWR" H 4900 5224 50  0000 C CNN
+F 2 "SOP65P640X120-16N" H 5450 5150 50  0001 L CNN
+F 3 "http://www.ti.com/lit/gpn/tlc6c598" H 5450 5050 50  0001 L CNN
+F 4 "TLC6C598 8-Bit Shift-Register LED Driver " H 5450 4950 50  0001 L CNN "Description"
+F 5 "1.2" H 5450 4850 50  0001 L CNN "Height"
+F 6 "Texas Instruments" H 5450 4750 50  0001 L CNN "Manufacturer_Name"
+F 7 "TLC6C598PWR" H 5450 4650 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "595-TLC6C598PWR" H 5450 4350 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TLC6C598PWR" H 5450 4250 50  0001 L CNN "Mouser Price/Stock"
+	1    4200 5050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 5050 4100 5050
+Wire Wire Line
+	4200 5650 4100 5650
+Wire Wire Line
+	4100 5650 4100 5050
+$Comp
+L TLC6C598PWR:TLC6C598PWR LED2
+U 1 1 5C38A69C
+P 4200 3500
+F 0 "LED2" H 4900 3765 50  0000 C CNN
+F 1 "TLC6C598PWR" H 4900 3674 50  0000 C CNN
+F 2 "SOP65P640X120-16N" H 5450 3600 50  0001 L CNN
+F 3 "http://www.ti.com/lit/gpn/tlc6c598" H 5450 3500 50  0001 L CNN
+F 4 "TLC6C598 8-Bit Shift-Register LED Driver " H 5450 3400 50  0001 L CNN "Description"
+F 5 "1.2" H 5450 3300 50  0001 L CNN "Height"
+F 6 "Texas Instruments" H 5450 3200 50  0001 L CNN "Manufacturer_Name"
+F 7 "TLC6C598PWR" H 5450 3100 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "595-TLC6C598PWR" H 5450 2800 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TLC6C598PWR" H 5450 2700 50  0001 L CNN "Mouser Price/Stock"
+	1    4200 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 3500 4100 3500
+Wire Wire Line
+	4200 4100 4100 4100
+Wire Wire Line
+	4100 4100 4100 3500
+Wire Wire Line
+	4200 2000 4100 2000
+Wire Wire Line
+	4200 2600 4100 2600
+Wire Wire Line
+	4100 2600 4100 2000
+$Comp
+L Connector_Generic:Conn_01x08 segment1
+U 1 1 5C390579
+P 3050 2350
+F 0 "segment1" H 2970 1725 50  0000 C CNN
+F 1 "Conn_01x08" H 2970 1816 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 3050 2350 50  0001 C CNN
+F 3 "~" H 3050 2350 50  0001 C CNN
+	1    3050 2350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4200 4200 4000 4200
+Wire Wire Line
+	4000 2700 4200 2700
+Wire Wire Line
+	4000 4200 4000 5750
+Wire Wire Line
+	4000 5750 4200 5750
+Wire Wire Line
+	4000 5750 4000 7250
+Wire Wire Line
+	4000 7250 4200 7250
+Connection ~ 4000 5750
+Wire Wire Line
+	4000 7250 4000 8800
+Wire Wire Line
+	4000 8800 4200 8800
+Connection ~ 4000 7250
+Wire Wire Line
+	4200 8200 4150 8200
+Wire Wire Line
+	4150 8200 4150 7400
+Wire Wire Line
+	4150 7400 5600 7400
+Wire Wire Line
+	5600 7400 5600 7250
+Wire Wire Line
+	4200 6650 4150 6650
+Wire Wire Line
+	4150 6650 4150 5900
+Wire Wire Line
+	4200 5150 4150 5150
+Wire Wire Line
+	4150 5150 4150 4700
+Wire Wire Line
+	5600 2600 5650 2600
+Wire Wire Line
+	5650 2600 5650 4100
+Wire Wire Line
+	5650 4100 5600 4100
+Wire Wire Line
+	5650 4100 5650 5650
+Wire Wire Line
+	5650 5650 5600 5650
+Connection ~ 5650 4100
+Wire Wire Line
+	5650 5650 5650 7150
+Wire Wire Line
+	5650 7150 5600 7150
+Connection ~ 5650 5650
+Wire Wire Line
+	5650 7150 5650 8700
+Wire Wire Line
+	5650 8700 5600 8700
+Connection ~ 5650 7150
+Wire Wire Line
+	5600 8200 5700 8200
+Wire Wire Line
+	5700 8200 5700 6650
+Wire Wire Line
+	5700 6650 5600 6650
+Wire Wire Line
+	5600 5150 5700 5150
+Wire Wire Line
+	5700 5150 5700 6650
+Connection ~ 5700 6650
+Wire Wire Line
+	5700 5150 5700 3600
+Wire Wire Line
+	5700 3600 5600 3600
+Connection ~ 5700 5150
+Wire Wire Line
+	5700 3600 5700 2100
+Wire Wire Line
+	5700 2100 5600 2100
+Connection ~ 5700 3600
+Wire Wire Line
+	5600 2000 5750 2000
+Wire Wire Line
+	5750 2000 5750 3500
+Wire Wire Line
+	5750 3500 5600 3500
+Wire Wire Line
+	5600 5050 5750 5050
+Wire Wire Line
+	5750 5050 5750 3500
+Connection ~ 5750 3500
+Wire Wire Line
+	5600 6550 5750 6550
+Wire Wire Line
+	5750 6550 5750 5050
+Connection ~ 5750 5050
+Wire Wire Line
+	5600 8100 5750 8100
+Wire Wire Line
+	5750 8100 5750 6550
+Connection ~ 5750 6550
+Wire Wire Line
+	5700 2100 5900 2100
+Wire Wire Line
+	5900 2100 5900 1600
+Connection ~ 5700 2100
+Wire Wire Line
+	5650 2600 5950 2600
+Wire Wire Line
+	5950 2600 5950 1650
+Wire Wire Line
+	5950 1650 6500 1650
+Connection ~ 5650 2600
+$Comp
+L MC7805BDTRKG:MC7805BDTRKG IC1
+U 1 1 5C36328D
+P 2650 950
+F 0 "IC1" H 3400 1215 50  0000 C CNN
+F 1 "MC7805BDTRKG" H 3400 1124 50  0000 C CNN
+F 2 "TO229P990X238-4N" H 4000 1050 50  0001 L CNN
+F 3 "http://www.onsemi.com/pub/Collateral/MC7800-D.PDF" H 4000 950 50  0001 L CNN
+F 4 "MC7805BDTRKG, ANA 1A 5V VREG MC7805BDTRKG, Logic Gate Linear Voltage Regulator, Fixed 3-Pin DPAK" H 4000 850 50  0001 L CNN "Description"
+F 5 "2.38" H 4000 750 50  0001 L CNN "Height"
+F 6 "ON Semiconductor" H 4000 650 50  0001 L CNN "Manufacturer_Name"
+F 7 "MC7805BDTRKG" H 4000 550 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "8056470P" H 4000 450 50  0001 L CNN "RS Part Number"
+F 9 "http://uk.rs-online.com/web/p/products/8056470P" H 4000 350 50  0001 L CNN "RS Price/Stock"
+F 10 "70466596" H 4000 250 50  0001 L CNN "Allied_Number"
+F 11 "http://www.alliedelec.com/on-semiconductor-mc7805bdtrkg/70466596/" H 4000 150 50  0001 L CNN "Allied Price/Stock"
+F 12 "863-MC7805BDTRKG" H 4000 50  50  0001 L CNN "Mouser Part Number"
+F 13 "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC7805BDTRKG" H 4000 -50 50  0001 L CNN "Mouser Price/Stock"
+	1    2650 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 1050 2650 1200
+Wire Wire Line
+	4150 1200 4150 1050
+$Comp
+L Device:C C1
+U 1 1 5C372D5C
+P 2750 1500
+F 0 "C1" V 2498 1500 50  0000 C CNN
+F 1 "0.33 uF" V 2589 1500 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2788 1350 50  0001 C CNN
+F 3 "~" H 2750 1500 50  0001 C CNN
+F 4 "885012206049" V 2750 1500 50  0001 C CNN "PartNumber"
+	1    2750 1500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2550 950  2650 950 
+Wire Wire Line
+	4250 950  4150 950 
+Wire Wire Line
+	4100 4100 4100 5050
+Connection ~ 4100 4100
+Connection ~ 4100 5050
+Wire Wire Line
+	4100 5650 4100 6550
+Connection ~ 4100 5650
+Connection ~ 4100 6550
+Wire Wire Line
+	4100 7150 4100 8100
+Connection ~ 4100 7150
+Connection ~ 4100 8100
+Wire Wire Line
+	2900 1500 2900 1200
+Wire Wire Line
+	2650 1200 2900 1200
+Connection ~ 2900 1200
+Wire Wire Line
+	2900 1200 4150 1200
+Wire Wire Line
+	2550 1500 2600 1500
+Wire Wire Line
+	2550 950  2550 1500
+Wire Wire Line
+	4250 950  4250 1250
+Wire Wire Line
+	4250 1250 4100 1250
+Wire Wire Line
+	4100 1250 4100 1450
+Connection ~ 4100 2000
+Wire Wire Line
+	4150 1050 5750 1050
+Connection ~ 5750 2000
+$Comp
+L Device:R_US R1
+U 1 1 5C47DEC0
+P 3450 1950
+F 0 "R1" V 3563 1950 50  0000 C CNN
+F 1 "R_US" V 3564 1950 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 1940 50  0001 C CNN
+F 3 "~" H 3450 1950 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 1950 50  0001 C CNN "PartNumber"
+	1    3450 1950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R2
+U 1 1 5C53AA1F
+P 3450 2050
+F 0 "R2" V 3563 2050 50  0000 C CNN
+F 1 "R_US" V 3564 2050 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 2040 50  0001 C CNN
+F 3 "~" H 3450 2050 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 2050 50  0001 C CNN "PartNumber"
+	1    3450 2050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R3
+U 1 1 5C549DEF
+P 3450 2150
+F 0 "R3" V 3563 2150 50  0000 C CNN
+F 1 "R_US" V 3564 2150 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 2140 50  0001 C CNN
+F 3 "~" H 3450 2150 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 2150 50  0001 C CNN "PartNumber"
+	1    3450 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R4
+U 1 1 5C5591C3
+P 3450 2250
+F 0 "R4" V 3563 2250 50  0000 C CNN
+F 1 "R_US" V 3564 2250 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 2240 50  0001 C CNN
+F 3 "~" H 3450 2250 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 2250 50  0001 C CNN "PartNumber"
+	1    3450 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R5
+U 1 1 5C568597
+P 3450 2350
+F 0 "R5" V 3563 2350 50  0000 C CNN
+F 1 "R_US" V 3564 2350 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 2340 50  0001 C CNN
+F 3 "~" H 3450 2350 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 2350 50  0001 C CNN "PartNumber"
+	1    3450 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R6
+U 1 1 5C57796F
+P 3450 2450
+F 0 "R6" V 3563 2450 50  0000 C CNN
+F 1 "R_US" V 3564 2450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 2440 50  0001 C CNN
+F 3 "~" H 3450 2450 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 2450 50  0001 C CNN "PartNumber"
+	1    3450 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R7
+U 1 1 5C586D4D
+P 3450 2550
+F 0 "R7" V 3563 2550 50  0000 C CNN
+F 1 "R_US" V 3564 2550 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 2540 50  0001 C CNN
+F 3 "~" H 3450 2550 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 2550 50  0001 C CNN "PartNumber"
+	1    3450 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R8
+U 1 1 5C596129
+P 3450 2650
+F 0 "R8" V 3563 2650 50  0000 C CNN
+F 1 "R_US" V 3564 2650 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 2640 50  0001 C CNN
+F 3 "~" H 3450 2650 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 2650 50  0001 C CNN "PartNumber"
+	1    3450 2650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 2650 3250 2650
+Wire Wire Line
+	3250 2550 3300 2550
+Wire Wire Line
+	3300 2450 3250 2450
+Wire Wire Line
+	3250 2350 3300 2350
+Wire Wire Line
+	3300 2250 3250 2250
+Wire Wire Line
+	3250 2150 3300 2150
+Wire Wire Line
+	3300 2050 3250 2050
+Wire Wire Line
+	3300 1950 3250 1950
+Wire Wire Line
+	6000 3000 3750 3000
+Wire Wire Line
+	3750 3000 3750 2350
+Wire Wire Line
+	3750 2350 3600 2350
+Wire Wire Line
+	6050 3050 3700 3050
+Wire Wire Line
+	3700 3050 3700 2450
+Wire Wire Line
+	3700 2450 3600 2450
+Wire Wire Line
+	3650 3100 3650 2550
+Wire Wire Line
+	3650 2550 3600 2550
+Wire Wire Line
+	3650 3100 6100 3100
+Connection ~ 4100 3500
+Connection ~ 4100 2600
+Wire Wire Line
+	4100 2600 4100 3500
+Connection ~ 4000 4200
+Wire Wire Line
+	4000 4200 4000 2700
+Connection ~ 4000 2700
+Wire Wire Line
+	4000 1500 4000 2700
+Wire Wire Line
+	6150 3150 3600 3150
+Wire Wire Line
+	3600 3150 3600 2650
+$Comp
+L Connector_Generic:Conn_01x08 segment2
+U 1 1 5C7EC377
+P 3050 3850
+F 0 "segment2" H 2970 3225 50  0000 C CNN
+F 1 "Conn_01x08" H 2970 3316 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 3050 3850 50  0001 C CNN
+F 3 "~" H 3050 3850 50  0001 C CNN
+	1    3050 3850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R_US R9
+U 1 1 5C7EC37F
+P 3450 3450
+F 0 "R9" V 3563 3450 50  0000 C CNN
+F 1 "R_US" V 3564 3450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 3440 50  0001 C CNN
+F 3 "~" H 3450 3450 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 3450 50  0001 C CNN "PartNumber"
+	1    3450 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R10
+U 1 1 5C7EC387
+P 3450 3550
+F 0 "R10" V 3563 3550 50  0000 C CNN
+F 1 "R_US" V 3564 3550 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 3540 50  0001 C CNN
+F 3 "~" H 3450 3550 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 3550 50  0001 C CNN "PartNumber"
+	1    3450 3550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R11
+U 1 1 5C7EC38F
+P 3450 3650
+F 0 "R11" V 3563 3650 50  0000 C CNN
+F 1 "R_US" V 3564 3650 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 3640 50  0001 C CNN
+F 3 "~" H 3450 3650 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 3650 50  0001 C CNN "PartNumber"
+	1    3450 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R12
+U 1 1 5C7EC397
+P 3450 3750
+F 0 "R12" V 3563 3750 50  0000 C CNN
+F 1 "R_US" V 3564 3750 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 3740 50  0001 C CNN
+F 3 "~" H 3450 3750 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 3750 50  0001 C CNN "PartNumber"
+	1    3450 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R13
+U 1 1 5C7EC39F
+P 3450 3850
+F 0 "R13" V 3563 3850 50  0000 C CNN
+F 1 "R_US" V 3564 3850 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 3840 50  0001 C CNN
+F 3 "~" H 3450 3850 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 3850 50  0001 C CNN "PartNumber"
+	1    3450 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R14
+U 1 1 5C7EC3A7
+P 3450 3950
+F 0 "R14" V 3563 3950 50  0000 C CNN
+F 1 "R_US" V 3564 3950 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 3940 50  0001 C CNN
+F 3 "~" H 3450 3950 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 3950 50  0001 C CNN "PartNumber"
+	1    3450 3950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R15
+U 1 1 5C7EC3AF
+P 3450 4050
+F 0 "R15" V 3563 4050 50  0000 C CNN
+F 1 "R_US" V 3564 4050 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 4040 50  0001 C CNN
+F 3 "~" H 3450 4050 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 4050 50  0001 C CNN "PartNumber"
+	1    3450 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R16
+U 1 1 5C7EC3B7
+P 3450 4150
+F 0 "R16" V 3563 4150 50  0000 C CNN
+F 1 "R_US" V 3564 4150 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 4140 50  0001 C CNN
+F 3 "~" H 3450 4150 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 4150 50  0001 C CNN "PartNumber"
+	1    3450 4150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 4150 3250 4150
+Wire Wire Line
+	3250 4050 3300 4050
+Wire Wire Line
+	3300 3950 3250 3950
+Wire Wire Line
+	3250 3850 3300 3850
+Wire Wire Line
+	3300 3750 3250 3750
+Wire Wire Line
+	3250 3650 3300 3650
+Wire Wire Line
+	3300 3550 3250 3550
+Wire Wire Line
+	3300 3450 3250 3450
+Wire Wire Line
+	3750 4500 3750 3850
+Wire Wire Line
+	3750 3850 3600 3850
+Wire Wire Line
+	3700 4550 3700 3950
+Wire Wire Line
+	3700 3950 3600 3950
+Wire Wire Line
+	3650 4600 3650 4050
+Wire Wire Line
+	3650 4050 3600 4050
+Wire Wire Line
+	3600 4650 3600 4150
+$Comp
+L Connector_Generic:Conn_01x08 segment3
+U 1 1 5C830CC4
+P 3050 5400
+F 0 "segment3" H 2970 4775 50  0000 C CNN
+F 1 "Conn_01x08" H 2970 4866 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 3050 5400 50  0001 C CNN
+F 3 "~" H 3050 5400 50  0001 C CNN
+	1    3050 5400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R_US R17
+U 1 1 5C830CCC
+P 3450 5000
+F 0 "R17" V 3563 5000 50  0000 C CNN
+F 1 "R_US" V 3564 5000 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 4990 50  0001 C CNN
+F 3 "~" H 3450 5000 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 5000 50  0001 C CNN "PartNumber"
+	1    3450 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R18
+U 1 1 5C830CD4
+P 3450 5100
+F 0 "R18" V 3563 5100 50  0000 C CNN
+F 1 "R_US" V 3564 5100 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 5090 50  0001 C CNN
+F 3 "~" H 3450 5100 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 5100 50  0001 C CNN "PartNumber"
+	1    3450 5100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R19
+U 1 1 5C830CDC
+P 3450 5200
+F 0 "R19" V 3563 5200 50  0000 C CNN
+F 1 "R_US" V 3564 5200 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 5190 50  0001 C CNN
+F 3 "~" H 3450 5200 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 5200 50  0001 C CNN "PartNumber"
+	1    3450 5200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R20
+U 1 1 5C830CE4
+P 3450 5300
+F 0 "R20" V 3563 5300 50  0000 C CNN
+F 1 "R_US" V 3564 5300 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 5290 50  0001 C CNN
+F 3 "~" H 3450 5300 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 5300 50  0001 C CNN "PartNumber"
+	1    3450 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R21
+U 1 1 5C830CEC
+P 3450 5400
+F 0 "R21" V 3563 5400 50  0000 C CNN
+F 1 "R_US" V 3564 5400 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 5390 50  0001 C CNN
+F 3 "~" H 3450 5400 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 5400 50  0001 C CNN "PartNumber"
+	1    3450 5400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R22
+U 1 1 5C830CF4
+P 3450 5500
+F 0 "R22" V 3563 5500 50  0000 C CNN
+F 1 "R_US" V 3564 5500 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 5490 50  0001 C CNN
+F 3 "~" H 3450 5500 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 5500 50  0001 C CNN "PartNumber"
+	1    3450 5500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R23
+U 1 1 5C830CFC
+P 3450 5600
+F 0 "R23" V 3563 5600 50  0000 C CNN
+F 1 "R_US" V 3564 5600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 5590 50  0001 C CNN
+F 3 "~" H 3450 5600 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 5600 50  0001 C CNN "PartNumber"
+	1    3450 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R24
+U 1 1 5C830D04
+P 3450 5700
+F 0 "R24" V 3563 5700 50  0000 C CNN
+F 1 "R_US" V 3564 5700 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 5690 50  0001 C CNN
+F 3 "~" H 3450 5700 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 5700 50  0001 C CNN "PartNumber"
+	1    3450 5700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 5700 3250 5700
+Wire Wire Line
+	3250 5600 3300 5600
+Wire Wire Line
+	3300 5500 3250 5500
+Wire Wire Line
+	3250 5400 3300 5400
+Wire Wire Line
+	3300 5300 3250 5300
+Wire Wire Line
+	3250 5200 3300 5200
+Wire Wire Line
+	3300 5100 3250 5100
+Wire Wire Line
+	3300 5000 3250 5000
+Wire Wire Line
+	3750 6050 3750 5400
+Wire Wire Line
+	3750 5400 3600 5400
+Wire Wire Line
+	3700 6100 3700 5500
+Wire Wire Line
+	3700 5500 3600 5500
+Wire Wire Line
+	3650 6150 3650 5600
+Wire Wire Line
+	3650 5600 3600 5600
+Wire Wire Line
+	3600 6200 3600 5700
+$Comp
+L Connector_Generic:Conn_01x08 segment4
+U 1 1 5C8412D5
+P 3050 6900
+F 0 "segment4" H 2970 6275 50  0000 C CNN
+F 1 "Conn_01x08" H 2970 6366 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 3050 6900 50  0001 C CNN
+F 3 "~" H 3050 6900 50  0001 C CNN
+	1    3050 6900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R_US R25
+U 1 1 5C8412DD
+P 3450 6500
+F 0 "R25" V 3563 6500 50  0000 C CNN
+F 1 "R_US" V 3564 6500 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 6490 50  0001 C CNN
+F 3 "~" H 3450 6500 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 6500 50  0001 C CNN "PartNumber"
+	1    3450 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R26
+U 1 1 5C8412E5
+P 3450 6600
+F 0 "R26" V 3563 6600 50  0000 C CNN
+F 1 "R_US" V 3564 6600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 6590 50  0001 C CNN
+F 3 "~" H 3450 6600 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 6600 50  0001 C CNN "PartNumber"
+	1    3450 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R27
+U 1 1 5C8412ED
+P 3450 6700
+F 0 "R27" V 3563 6700 50  0000 C CNN
+F 1 "R_US" V 3564 6700 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 6690 50  0001 C CNN
+F 3 "~" H 3450 6700 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 6700 50  0001 C CNN "PartNumber"
+	1    3450 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R28
+U 1 1 5C8412F5
+P 3450 6800
+F 0 "R28" V 3563 6800 50  0000 C CNN
+F 1 "R_US" V 3564 6800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 6790 50  0001 C CNN
+F 3 "~" H 3450 6800 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 6800 50  0001 C CNN "PartNumber"
+	1    3450 6800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R29
+U 1 1 5C8412FD
+P 3450 6900
+F 0 "R29" V 3563 6900 50  0000 C CNN
+F 1 "R_US" V 3564 6900 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 6890 50  0001 C CNN
+F 3 "~" H 3450 6900 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 6900 50  0001 C CNN "PartNumber"
+	1    3450 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R30
+U 1 1 5C841305
+P 3450 7000
+F 0 "R30" V 3563 7000 50  0000 C CNN
+F 1 "R_US" V 3564 7000 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 6990 50  0001 C CNN
+F 3 "~" H 3450 7000 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 7000 50  0001 C CNN "PartNumber"
+	1    3450 7000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R31
+U 1 1 5C84130D
+P 3450 7100
+F 0 "R31" V 3563 7100 50  0000 C CNN
+F 1 "R_US" V 3564 7100 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 7090 50  0001 C CNN
+F 3 "~" H 3450 7100 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 7100 50  0001 C CNN "PartNumber"
+	1    3450 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R32
+U 1 1 5C841315
+P 3450 7200
+F 0 "R32" V 3563 7200 50  0000 C CNN
+F 1 "R_US" V 3564 7200 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 7190 50  0001 C CNN
+F 3 "~" H 3450 7200 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 7200 50  0001 C CNN "PartNumber"
+	1    3450 7200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 7200 3250 7200
+Wire Wire Line
+	3250 7100 3300 7100
+Wire Wire Line
+	3300 7000 3250 7000
+Wire Wire Line
+	3250 6900 3300 6900
+Wire Wire Line
+	3300 6800 3250 6800
+Wire Wire Line
+	3250 6700 3300 6700
+Wire Wire Line
+	3300 6600 3250 6600
+Wire Wire Line
+	3300 6500 3250 6500
+Wire Wire Line
+	3950 6750 4200 6750
+Wire Wire Line
+	4200 6850 3900 6850
+Wire Wire Line
+	3850 6950 4200 6950
+Wire Wire Line
+	4200 7050 3800 7050
+Wire Wire Line
+	3750 7550 3750 6900
+Wire Wire Line
+	3750 6900 3600 6900
+Wire Wire Line
+	3700 7600 3700 7000
+Wire Wire Line
+	3700 7000 3600 7000
+Wire Wire Line
+	3650 7650 3650 7100
+Wire Wire Line
+	3650 7100 3600 7100
+$Comp
+L Connector_Generic:Conn_01x08 segment5
+U 1 1 5C855F07
+P 3050 8450
+F 0 "segment5" H 2970 7825 50  0000 C CNN
+F 1 "Conn_01x08" H 2970 7916 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 3050 8450 50  0001 C CNN
+F 3 "~" H 3050 8450 50  0001 C CNN
+	1    3050 8450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R_US R33
+U 1 1 5C855F0F
+P 3450 8050
+F 0 "R33" V 3563 8050 50  0000 C CNN
+F 1 "R_US" V 3564 8050 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 8040 50  0001 C CNN
+F 3 "~" H 3450 8050 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 8050 50  0001 C CNN "PartNumber"
+	1    3450 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R34
+U 1 1 5C855F17
+P 3450 8150
+F 0 "R34" V 3563 8150 50  0000 C CNN
+F 1 "R_US" V 3564 8150 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 8140 50  0001 C CNN
+F 3 "~" H 3450 8150 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 8150 50  0001 C CNN "PartNumber"
+	1    3450 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R35
+U 1 1 5C855F1F
+P 3450 8250
+F 0 "R35" V 3563 8250 50  0000 C CNN
+F 1 "R_US" V 3564 8250 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 8240 50  0001 C CNN
+F 3 "~" H 3450 8250 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 8250 50  0001 C CNN "PartNumber"
+	1    3450 8250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R36
+U 1 1 5C855F27
+P 3450 8350
+F 0 "R36" V 3563 8350 50  0000 C CNN
+F 1 "R_US" V 3564 8350 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 8340 50  0001 C CNN
+F 3 "~" H 3450 8350 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 8350 50  0001 C CNN "PartNumber"
+	1    3450 8350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R37
+U 1 1 5C855F2F
+P 3450 8450
+F 0 "R37" V 3563 8450 50  0000 C CNN
+F 1 "R_US" V 3564 8450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 8440 50  0001 C CNN
+F 3 "~" H 3450 8450 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 8450 50  0001 C CNN "PartNumber"
+	1    3450 8450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R38
+U 1 1 5C855F37
+P 3450 8550
+F 0 "R38" V 3563 8550 50  0000 C CNN
+F 1 "R_US" V 3564 8550 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 8540 50  0001 C CNN
+F 3 "~" H 3450 8550 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 8550 50  0001 C CNN "PartNumber"
+	1    3450 8550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R39
+U 1 1 5C855F3F
+P 3450 8650
+F 0 "R39" V 3563 8650 50  0000 C CNN
+F 1 "R_US" V 3564 8650 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 8640 50  0001 C CNN
+F 3 "~" H 3450 8650 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 8650 50  0001 C CNN "PartNumber"
+	1    3450 8650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R40
+U 1 1 5C855F47
+P 3450 8750
+F 0 "R40" V 3563 8750 50  0000 C CNN
+F 1 "R_US" V 3564 8750 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3490 8740 50  0001 C CNN
+F 3 "~" H 3450 8750 50  0001 C CNN
+F 4 "ESR10EZPJ201" H 3450 8750 50  0001 C CNN "PartNumber"
+	1    3450 8750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 8750 3250 8750
+Wire Wire Line
+	3250 8650 3300 8650
+Wire Wire Line
+	3300 8550 3250 8550
+Wire Wire Line
+	3250 8450 3300 8450
+Wire Wire Line
+	3300 8350 3250 8350
+Wire Wire Line
+	3250 8250 3300 8250
+Wire Wire Line
+	3300 8150 3250 8150
+Wire Wire Line
+	3300 8050 3250 8050
+Wire Wire Line
+	3750 9100 3750 8450
+Wire Wire Line
+	3750 8450 3600 8450
+Wire Wire Line
+	3700 9150 3700 8550
+Wire Wire Line
+	3700 8550 3600 8550
+Wire Wire Line
+	3650 9200 3650 8650
+Wire Wire Line
+	3650 8650 3600 8650
+Wire Wire Line
+	3600 9250 3600 8750
+Wire Wire Line
+	3750 4500 6000 4500
+Wire Wire Line
+	6050 4550 3700 4550
+Wire Wire Line
+	3600 4650 6150 4650
+Wire Wire Line
+	3750 6050 6000 6050
+Wire Wire Line
+	6050 6100 3700 6100
+Wire Wire Line
+	3650 6150 6100 6150
+Wire Wire Line
+	6150 6200 3600 6200
+Wire Wire Line
+	3750 7550 6000 7550
+Wire Wire Line
+	6050 7600 3700 7600
+Wire Wire Line
+	3650 7650 6100 7650
+Wire Wire Line
+	6150 7700 3600 7700
+Wire Wire Line
+	3600 7200 3600 7700
+Wire Wire Line
+	3750 9100 6000 9100
+Wire Wire Line
+	6050 9150 3700 9150
+Wire Wire Line
+	3650 9200 6100 9200
+Wire Wire Line
+	6150 9250 3600 9250
+$Comp
+L Connector_Generic:Conn_01x06 J3
+U 1 1 5CA570D1
+P 6850 1700
+F 0 "J3" H 6930 1692 50  0000 L CNN
+F 1 "Conn_01x06" H 6930 1601 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 6850 1700 50  0001 C CNN
+F 3 "~" H 6850 1700 50  0001 C CNN
+	1    6850 1700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4000 1500 6650 1500
+Wire Wire Line
+	6650 1550 6650 1600
+Wire Wire Line
+	6600 1600 6600 1700
+Wire Wire Line
+	6600 1700 6650 1700
+Wire Wire Line
+	5900 1600 6600 1600
+Wire Wire Line
+	6500 1650 6500 1800
+Wire Wire Line
+	6500 1800 6650 1800
+Wire Wire Line
+	6000 950  4250 950 
+Connection ~ 4250 950 
+$Comp
+L Connector_Generic:Conn_01x02 J1
+U 1 1 5CB06E26
+P 2150 1050
+F 0 "J1" H 2070 725 50  0000 C CNN
+F 1 "Conn_01x02" H 2070 816 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2150 1050 50  0001 C CNN
+F 3 "~" H 2150 1050 50  0001 C CNN
+	1    2150 1050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2350 950  2550 950 
+Connection ~ 2550 950 
+Wire Wire Line
+	2350 1050 2650 1050
+$Comp
+L Connector_Generic:Conn_01x01 J2
+U 1 1 5C352CFE
+P 3800 1450
+F 0 "J2" H 3720 1225 50  0000 C CNN
+F 1 "Conn_01x01" H 3720 1316 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 3800 1450 50  0001 C CNN
+F 3 "~" H 3800 1450 50  0001 C CNN
+	1    3800 1450
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4000 1450 4100 1450
+Connection ~ 4100 1450
+Wire Wire Line
+	4100 1450 4100 2000
+Wire Wire Line
+	3800 6500 3600 6500
+Wire Wire Line
+	3800 6500 3800 7050
+Wire Wire Line
+	3850 6950 3850 6600
+Wire Wire Line
+	3850 6600 3600 6600
+Wire Wire Line
+	3900 6850 3900 6700
+Wire Wire Line
+	3900 6700 3600 6700
+Wire Wire Line
+	3950 6750 3950 6800
+Wire Wire Line
+	3950 6800 3600 6800
+Wire Wire Line
+	6000 6750 5600 6750
+Wire Wire Line
+	6000 6750 6000 7550
+Wire Wire Line
+	6050 7600 6050 6850
+Wire Wire Line
+	6050 6850 5600 6850
+Wire Wire Line
+	6100 7650 6100 6950
+Wire Wire Line
+	6100 6950 5600 6950
+Wire Wire Line
+	6150 7700 6150 7050
+Wire Wire Line
+	6150 7050 5600 7050
+Wire Wire Line
+	6000 9100 6000 8300
+Wire Wire Line
+	6000 8300 5600 8300
+Wire Wire Line
+	6050 9150 6050 8400
+Wire Wire Line
+	6050 8400 5600 8400
+Wire Wire Line
+	6100 9200 6100 8500
+Wire Wire Line
+	6100 8500 5600 8500
+Wire Wire Line
+	6150 9250 6150 8600
+Wire Wire Line
+	6150 8600 5600 8600
+Wire Wire Line
+	4200 8300 4200 8350
+Wire Wire Line
+	4200 8350 3600 8350
+Wire Wire Line
+	4200 8400 4050 8400
+Wire Wire Line
+	4050 8400 4050 8250
+Wire Wire Line
+	4050 8250 3600 8250
+Wire Wire Line
+	4200 8500 3950 8500
+Wire Wire Line
+	3950 8500 3950 8150
+Wire Wire Line
+	3950 8150 3600 8150
+Wire Wire Line
+	4200 8600 3900 8600
+Wire Wire Line
+	3900 8600 3900 8050
+Wire Wire Line
+	3900 8050 3600 8050
+Wire Wire Line
+	4200 5250 3950 5250
+Wire Wire Line
+	3950 5250 3950 5000
+Wire Wire Line
+	3950 5000 3600 5000
+Wire Wire Line
+	3600 5100 3900 5100
+Wire Wire Line
+	3900 5100 3900 5350
+Wire Wire Line
+	3900 5350 4200 5350
+Wire Wire Line
+	4200 5450 3850 5450
+Wire Wire Line
+	3850 5450 3850 5200
+Wire Wire Line
+	3850 5200 3600 5200
+Wire Wire Line
+	3600 5300 3800 5300
+Wire Wire Line
+	3800 5300 3800 5550
+Wire Wire Line
+	3800 5550 4200 5550
+Wire Wire Line
+	6150 6200 6150 5250
+Wire Wire Line
+	6150 5250 5600 5250
+Wire Wire Line
+	6100 6150 6100 5350
+Wire Wire Line
+	6100 5350 5600 5350
+Wire Wire Line
+	6050 6100 6050 5450
+Wire Wire Line
+	6050 5450 5600 5450
+Wire Wire Line
+	6000 6050 6000 5550
+Wire Wire Line
+	6000 5550 5600 5550
+Wire Wire Line
+	6150 4650 6150 3700
+Wire Wire Line
+	6150 3700 5600 3700
+Wire Wire Line
+	6100 4600 3650 4600
+Wire Wire Line
+	6100 4600 6100 3800
+Wire Wire Line
+	6100 3800 5600 3800
+Wire Wire Line
+	6050 4550 6050 3900
+Wire Wire Line
+	6050 3900 5600 3900
+Wire Wire Line
+	6000 4500 6000 4000
+Wire Wire Line
+	6000 4000 5600 4000
+Wire Wire Line
+	4200 3700 3950 3700
+Wire Wire Line
+	3950 3700 3950 3450
+Wire Wire Line
+	3950 3450 3600 3450
+Wire Wire Line
+	4200 3800 3900 3800
+Wire Wire Line
+	3900 3800 3900 3550
+Wire Wire Line
+	3900 3550 3600 3550
+Wire Wire Line
+	4200 3900 3850 3900
+Wire Wire Line
+	3850 3900 3850 3650
+Wire Wire Line
+	3850 3650 3600 3650
+Wire Wire Line
+	4200 4000 3800 4000
+Wire Wire Line
+	3800 4000 3800 3750
+Wire Wire Line
+	3800 3750 3600 3750
+Wire Wire Line
+	4200 2200 4200 2250
+Wire Wire Line
+	4050 2300 4050 2150
+Wire Wire Line
+	4200 2300 4050 2300
+Wire Wire Line
+	4200 2500 3900 2500
+Wire Wire Line
+	4200 2400 3950 2400
+Wire Wire Line
+	3900 1950 3600 1950
+Wire Wire Line
+	3900 2500 3900 1950
+Wire Wire Line
+	3950 2050 3600 2050
+Wire Wire Line
+	3950 2400 3950 2050
+Wire Wire Line
+	4050 2150 3600 2150
+Wire Wire Line
+	4200 2250 3600 2250
+Wire Wire Line
+	6000 2200 5600 2200
+Wire Wire Line
+	6000 3000 6000 2200
+Wire Wire Line
+	6050 2300 5600 2300
+Wire Wire Line
+	6050 3050 6050 2300
+Wire Wire Line
+	6100 2400 5600 2400
+Wire Wire Line
+	6100 3100 6100 2400
+Wire Wire Line
+	6150 2500 6150 3150
+Wire Wire Line
+	5600 2500 6150 2500
+Wire Wire Line
+	5600 8800 5600 9350
+Wire Wire Line
+	5600 9350 2850 9350
+Wire Wire Line
+	2850 1750 2850 9350
+Wire Wire Line
+	4150 1750 4150 2100
+Wire Wire Line
+	4150 2100 4200 2100
+Wire Wire Line
+	2850 1750 4150 1750
+$Comp
+L TLC6C598PWR:TLC6C598PWR LED1
+U 1 1 5C39056F
+P 4200 2000
+F 0 "LED1" H 4900 2265 50  0000 C CNN
+F 1 "TLC6C598PWR" H 4900 2174 50  0000 C CNN
+F 2 "SOP65P640X120-16N" H 5450 2100 50  0001 L CNN
+F 3 "http://www.ti.com/lit/gpn/tlc6c598" H 5450 2000 50  0001 L CNN
+F 4 "TLC6C598 8-Bit Shift-Register LED Driver " H 5450 1900 50  0001 L CNN "Description"
+F 5 "1.2" H 5450 1800 50  0001 L CNN "Height"
+F 6 "Texas Instruments" H 5450 1700 50  0001 L CNN "Manufacturer_Name"
+F 7 "TLC6C598PWR" H 5450 1600 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "595-TLC6C598PWR" H 5450 1300 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TLC6C598PWR" H 5450 1200 50  0001 L CNN "Mouser Price/Stock"
+	1    4200 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 2700 6300 2700
+Wire Wire Line
+	6300 2700 6300 4700
+Wire Wire Line
+	6300 4700 4150 4700
+Wire Wire Line
+	5750 1900 5750 2000
+Wire Wire Line
+	5750 1050 5750 1900
+Connection ~ 5750 1900
+Wire Wire Line
+	6000 2000 6000 950 
+Wire Wire Line
+	6650 1900 5750 1900
+Wire Wire Line
+	6650 2000 6000 2000
+Wire Wire Line
+	5600 5750 6200 5750
+Wire Wire Line
+	6200 5750 6200 4350
+Wire Wire Line
+	6200 4350 4150 4350
+Wire Wire Line
+	4150 4350 4150 3600
+Wire Wire Line
+	4150 3600 4200 3600
+Wire Wire Line
+	6550 5900 6550 1550
+Wire Wire Line
+	6550 1550 6650 1550
+Wire Wire Line
+	4150 5900 6550 5900
+$EndSCHEMATC
